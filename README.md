@@ -3,6 +3,16 @@ Vehicle Control Simulation model, designed for control algorithm development and
 
 It's based on matlab/simulink, and compiled to use with user HMI.
 
+![VehicleModelMainConcept.png]
+!
+
+
+The Vehicle Control Model (VCM)platform focuses on vehicle dynamics simulation and autonomous drive technology. 
+It use a pure electric power system and combines it with the by-wire chassis technology. 
+It should adapt to  the mots popular ASAM standard protocol.
+Finally, the functional verification of the control system based on this platform is achieved, 
+such as by-wire steering, by-wire braking, AD driving simulation, etc.
+
 
 ##The project development phase planning
 This project is from the very beginning,we plan to develop the vehicle control model from zero and step by step.
